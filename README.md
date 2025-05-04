@@ -66,7 +66,12 @@ https://instagram.com@your-tunnel-url.serveo.net/login
 
 ## 🤝 Credits
 
-Made with 💻 by dionabazi  
+Made with 💻 by Threadlinee  
 Designed for security awareness and creative coding exploration.
 
 ---
+
+## ☕ Support Me
+If you like this project, feel free to [buy me a coffee](https://ko-fi.com/G2G114SBVV)!
+
+[![Buy Me a Coffee](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G114SBVV)
